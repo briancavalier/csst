@@ -1,0 +1,23 @@
+{
+  "name": "csst",
+  "version": "0.1.0",
+  "authors": [
+    "Brian Cavalier <brian@hovercraftstudios.com>"
+  ],
+  "description": "Functional CSS transformers",
+  "main": "css.js",
+  "moduleType": "node",
+  "keywords": [
+    "css",
+    "oocss",
+    "smacss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
