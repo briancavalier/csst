@@ -1,0 +1,9 @@
+{
+  "name": "csst-examples",
+  "main": "main",
+  "moduleType": "node",
+  "dependencies": {
+    "rave": "~0.0.6",
+    "csst": "~0.1.0"
+  }
+}
