@@ -1,0 +1,26 @@
+{
+  "name": "csst",
+  "version": "0.1.0",
+  "description": "Functional css transformations",
+  "main": "css.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/briancavalier/csst.git"
+  },
+  "keywords": [
+    "css",
+    "functional"
+  ],
+  "author": "brian@hovercraftstudios.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briancavalier/csst/issues"
+  },
+  "homepage": "https://github.com/briancavalier/csst"
+}
